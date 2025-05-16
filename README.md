@@ -20,7 +20,8 @@
 * Открыть ноутбук [advanced-assistant.ipynb](advanced-assistant.ipynb)
 
 ## В выступлениях
-* 3 апреля 2025 г., Вебинар "[Создание Telegram-бота на базе LLM с RAG и Function Calling](https://yandex.cloud/ru/events/1117)" [![GitHub Release](https://img.shields.io/github/v/release/yandex-datasphere/advanced-assistant?filter=v1)](https://github.com/yandex-datasphere/advanced-assistant/tree/v1) ![](https://img.shields.io/badge/смотреть-запись-blue)
+* 3 апреля 2025 г., Вебинар "[Создание Telegram-бота на базе LLM с RAG и Function Calling](https://yandex.cloud/ru/events/1117)" [![GitHub Release](https://img.shields.io/github/v/release/yandex-datasphere/advanced-assistant?filter=v1)](https://github.com/yandex-datasphere/advanced-assistant/tree/v1) [![](https://img.shields.io/badge/смотреть-запись-blue)](https://yandex.cloud/ru/events/1117)
+* 16 мая 2025 г., Доклад [Введение в агенты с YandexGPT и Yandex Cloud](https://imlconf.com/talks/2dd289be1ff54eeab2c2cce578668c23/) на конференции [IML 2025](https://imlconf.com/) [![GitHub Release](https://img.shields.io/github/v/release/yandex-datasphere/advanced-assistant?filter=v2)](https://github.com/yandex-datasphere/advanced-assistant/tree/v2) [![](https://img.shields.io/badge/смотреть-запись-blue)](https://imlconf.com/talks/2dd289be1ff54eeab2c2cce578668c23/)
 
 ## Благодарности
 
