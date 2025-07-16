@@ -1,0 +1,17 @@
+[
+    {
+        "user_input": "I want to eat something from meat",
+        "reference": "I recommend steak and some red wine, such as Malbec or Merlot.",
+        "response": "I recommend the **\"Bull on Edge\" Steak** as your main dish. It's a juicy ribeye slow-cooked in the smoke of Argentine passion and served with Himalayan gold salt. For wine, I suggest the Merlot by Marchesi Antinori, Italy. The steak is priced at 2500 RUB and the wine is 2800 RUB per glass."
+    },
+    {
+        "user_input": "I prefer fish",
+        "reference": "I recommend some fish dish such as grilled salmon, and some dry white wine, such as Riesling or Sauvignon Blanc.",
+        "response": "I recommend the main dish **\"Salmon Dreaming of Norway\"** — Delicate fillet baked under a crust of \"mysterious northern herbs\" (dill). Served with lemon breeze. \n\nTo complement this dish, I suggest pairing it with Riesling from Dr. Loosen, Germany, 2019."
+    },
+    {
+        "user_input": "I want to eat salmon with red wine",
+        "reference": "I am afraid we do not recommend to pair fish with red wine",
+        "response": "Thank you for your order. I'm sorry to inform you that the **\"Salmon Dreaming of Norway\"** does not pair well with the Merlot by Marchesi Antinori, Italy, 2019. Would you like me to suggest a different wine that would complement your dish better? Perhaps a white wine such as Sauvignon Blanc or Chardonnay might be a good choice."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "user_input" : "I want to eat something from meat",
+        "reference" : "I recommend steak and some red wine, such as Malbec or Merlot."
+    },
+    {
+        "user_input" : "I prefer fish",
+        "reference" : "I recommend some fish dish such as grilled salmon, and some dry white wine, such as Riesling or Sauvignon Blanc."
+    },
+    {
+        "user_input" : "I want to eat salmon with red wine",
+        "reference" : "I am afraid we do not recommend to pair fish with red wine"
+    }
+]
