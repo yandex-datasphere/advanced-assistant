@@ -31,12 +31,18 @@
   - [ИЛИ] Получить для этого аккаунта API-ключ и установить в проекте датасферы секреты `folder_id`, `api_key` (либо установить соответствующие переменные окружения)
 * Установить секрет `tg_token`, если вы планируете тестировать телеграм-бота
 * Открыть соответствующий ноутбук [advanced-assistant.ipynb](advanced-assistant.ipynb) (Создание ассистента), [adk.ipynb](adk.ipynb) (Агенты в OpenAI Agent SDK), [langgraph-agent.ipynb](langgraph-agent.ipynb) (построение Agentic Workflow) и [code-agent.ipynb](code-agent.ipynb) (ReAct-агент на основе кодогенерации)
+* Для работы MCP потребуется развернуть MCP-сервера одним из следующих способов:
+  - На виртуальной машине, запустив код из этого репозитория:
+    ```
+    fastmcp run mcp-wine-shop.py -t sse -p 8000 --host 0.0.0.0`
+    fastmcp run mcp-rest.py -t sse -p 8001 --host 0.0.0.0
+    ```
+  - На [FastMCP Cloud](https://fastmcp.cloud/), используя репозиторий [https://github.com/yandex-datasphere/advanced-assistant-mcp](https://github.com/yandex-datasphere/advanced-assistant-mcp). Необходимо развернуть два MCP-сервера, указав в качестве скрипта запуска `mcp-wine-shop.py` и `mcp-rest.py`
 
 ## В выступлениях
 
 Примеры на основе [Responses API](https://yandex.cloud/ru/docs/ai-studio/concepts/agents/) и [OpenAI SDK]:
 * 24 сентября 2025 г., воркшоп "[Создание мультиагентной системы на базе AI Studio](https://scale.yandex.cloud/workshops/)" [![GitHub Release](https://img.shields.io/github/v/release/yandex-datasphere/advanced-assistant?filter=v4)](https://github.com/yandex-datasphere/advanced-assistant/tree/v4)
-
 
 Примеры на основе [Yandex Assistant API](https://yandex.cloud/ru/docs/ai-studio/concepts/assistant/) (морально устаревшие):
 
